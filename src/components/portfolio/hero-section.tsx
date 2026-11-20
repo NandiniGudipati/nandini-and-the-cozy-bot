@@ -1,6 +1,6 @@
 import { ArrowDown, ArrowUpRight, Braces, Code2, Database } from "lucide-react";
 
-import robotAsset from "@/assets/nandini-robot-mascot.png.asset.json";
+import robotAsset from "@/assets/nandini-robot-mascot.png";
 import { Button } from "@/components/ui/button";
 
 export function HeroSection() {
