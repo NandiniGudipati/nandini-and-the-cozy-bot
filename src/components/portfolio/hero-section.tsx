@@ -32,7 +32,7 @@ export function HeroSection() {
           <div className="hero-art-frame">
             <img
               className="hero-mascot"
-              src={robotAsset.url}
+              src={robotAsset}
               alt="A cozy pink coding robot working at a laptop, surrounded by Python, React, and Flask symbols"
               fetchPriority="high"
             />
